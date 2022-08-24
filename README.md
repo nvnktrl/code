@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvnktrl&label=Profile%20views&color=0e75b6&style=flat" alt="nvnktrl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvnktrl" alt="nvnktrl" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 🤝 I’m looking for contributing to **python based open source projects**
