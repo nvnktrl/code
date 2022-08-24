@@ -1,4 +1,3 @@
-# code
 <h1 align="center">Hi 👋, I am Naveen Katroliya</h1>
 <h3 align="center">A Data Science Enthusiast who is well versed in SQL, Python, Tableau.</h3>
 
