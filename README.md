@@ -12,7 +12,7 @@
 
 - 💬 Ping me about **SQL, Python, Tableau, Machine Learning**
 
-- 📫 How to reach me **nvnktrl@gmail.com**
+- 📫 Reach me at **nvnktrl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
